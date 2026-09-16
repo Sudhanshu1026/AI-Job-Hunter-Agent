@@ -4,7 +4,7 @@
 
 ## 🎥 Demo
 
-▶️ **YouTube Demo:** [Watch the complete project demonstration](YOUTUBE_LINK_HERE)
+▶️ **YouTube Demo:** [Watch the complete project demonstration](https://youtu.be/vfTd2FFHlIE)
 
 The video demonstrates the complete workflow from job discovery to AI matching, Google Sheets tracking, and Telegram notification.
 
